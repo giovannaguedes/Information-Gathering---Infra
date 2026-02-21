@@ -19,6 +19,13 @@ Now run it in the terminal:
 ./dnsrev.sh
 
 6. Example output
+=======================
+      M!ss s3c
+ DNS Reverse Scanner
+=======================
+
+225.1.168.198.in-addr.arpa domain name pointer admin.exemplo.com.br.
+234.1.168.198.in-addr.arpa domain name pointer rh.exemplo.com.br.
 
 👉 What you learn from this script
 #!/bin/bash → allows the script to run directly from the terminal
